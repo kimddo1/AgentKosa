@@ -1,6 +1,10 @@
 team: KT
 
+<<<<<<< HEAD
 manager: 쿠울
+=======
+manager: 음냐
+>>>>>>> ecea7c8a44a895939727001c73d1819fba8afe54
 
 members:
 - 고영표
